@@ -6,7 +6,7 @@ from tkinter import Scale
 import rclpy
 from rclpy.node import Node
 from rclpy.parameter import Parameter
-from pid_msg.msg import PIDTune
+from controller_msg.msg import PIDTune
 
 
 class Pid_dim():
