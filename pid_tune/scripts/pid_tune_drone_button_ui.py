@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 from tkinter import messagebox
 import rclpy
 from rclpy.node import Node
-from pid_msg.msg import PIDTune
+from controller_msg.msg import PIDTune
 import yaml
 import os
 from ament_index_python.packages import get_package_share_directory

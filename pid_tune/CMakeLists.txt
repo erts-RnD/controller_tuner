@@ -18,7 +18,7 @@ endif()
 # find dependencies
 find_package(ament_cmake REQUIRED)
 find_package(rclpy REQUIRED)
-find_package(pid_msg REQUIRED)
+find_package(controller_msg REQUIRED)
 find_package(ament_cmake_python REQUIRED)
 
 
