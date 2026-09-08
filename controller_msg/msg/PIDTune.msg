@@ -1,3 +1,3 @@
-int16 kp
-int16 ki
-int16 kd
+float32 kp
+float32 ki
+float32 kd
